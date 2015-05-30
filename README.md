@@ -2,10 +2,7 @@
 
 ## Summary
 
-XGossip is a novel gossip algorithm for estimating the number of XML documents that contain a match for an XPath query in a large-scale network.
-
-XGossip uses the [Chord DHT](http://en.wikipedia.org/wiki/Chord_(peer-to-peer)) to route gossip messages. The source code of Chord (including minor changes to it) is also included.
-
+XGossip is a novel software tool for Internet-scale cardinality estimation of XPath queries over distributed XML data. (Funding source: National Science Foundation Grant No. 1115871)
 
 ## Publications
 
