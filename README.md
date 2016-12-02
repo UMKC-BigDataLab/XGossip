@@ -6,7 +6,7 @@ XGossip is a novel software tool for Internet-scale cardinality estimation of XP
 
 ## Publications
 
-* Vasil Slavov, Anas Katib, and Praveen Rao. ``[Tool for Internet-Scale Cardinality Estimation of XPath Queries over Distributed Semistructured Data.](http://dx.doi.org/10.1109/ICDE.2014.6816758)" *Proceedings of the 30th IEEE International Conference on Data Engineering* (**ICDE 2014**), Chicago, IL,pp. 1270-1273, April 2014. (Demo)
+* Vasil Slavov, Anas Katib, and Praveen Rao. ``[A Tool for Internet-Scale Cardinality Estimation of XPath Queries over Distributed Semistructured Data.](http://dx.doi.org/10.1109/ICDE.2014.6816758)" *Proceedings of the 30th IEEE International Conference on Data Engineering* (**ICDE 2014**), Chicago, IL,pp. 1270-1273, April 2014. (Demo)
 
 * Vasil Slavov and Praveen Rao. ``[A Gossip-Based Approach for Internet-Scale Cardinality Estimation of XPath Queries over Distributed Semistructured Data.](http://dx.doi.org/10.1007/s00778-013-0314-1)" *The International Journal on Very Large Databases* (**VLDB Journal 2014**), Volume 23, Issue 1, 2014, pp. 56-71.
 
